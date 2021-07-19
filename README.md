@@ -1,3 +1,3 @@
 # 19CSE304_DATA_SCIENCE
 
-Introduction to Pandas DataFrames.
+Repository for Jupyter/Colab notebooks used for Lectures on Foundations of Data Science.
